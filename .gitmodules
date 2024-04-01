@@ -1,0 +1,4 @@
+[submodule "submodules/playdate-cpp"]
+	url = https://github.com/Myonmu/playdate-cpp.git
+[submodule "submodules/playdate-cpp-extensions"]
+	url = https://github.com/Myonmu/playdate-cpp-extensions.git
