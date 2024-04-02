@@ -14,3 +14,7 @@ The submodules contain small modifications over the original playdate cpp and pl
 ## Anything else except cloning this repo?
 
 Change your project name in `CMakeLists.txt` 
+
+## other links
+
+- [pdinkcpp](https://github.com/Myonmu/pdinkcpp) : modified version of inkcpp. useful if you find lua implementation of ink not performant enough.
